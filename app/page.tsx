@@ -1,6 +1,10 @@
+import Link from "next/link"
+
 const page = () => {
   return (
-    <div>page</div>
+    <div>
+      Home page !!!
+    </div>
   )
 }
 export default page
